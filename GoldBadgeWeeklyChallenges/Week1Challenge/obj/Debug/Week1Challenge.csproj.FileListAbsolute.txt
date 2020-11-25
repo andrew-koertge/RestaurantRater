@@ -1,0 +1,7 @@
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\bin\Debug\Week1Challenge.exe.config
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\bin\Debug\Week1Challenge.exe
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\bin\Debug\Week1Challenge.pdb
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\obj\Debug\Week1Challenge.csprojAssemblyReference.cache
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\obj\Debug\Week1Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\obj\Debug\Week1Challenge.exe
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week1Challenge\obj\Debug\Week1Challenge.pdb

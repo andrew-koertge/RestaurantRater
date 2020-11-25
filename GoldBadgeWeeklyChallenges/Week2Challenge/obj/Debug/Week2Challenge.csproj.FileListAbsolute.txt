@@ -1,0 +1,6 @@
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week2Challenge\bin\Debug\Week2Challenge.exe.config
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week2Challenge\bin\Debug\Week2Challenge.exe
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week2Challenge\bin\Debug\Week2Challenge.pdb
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week2Challenge\obj\Debug\Week2Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week2Challenge\obj\Debug\Week2Challenge.exe
+C:\Users\Drew\source\repos\GoldBadgeWeeklyChallenges\Week2Challenge\obj\Debug\Week2Challenge.pdb

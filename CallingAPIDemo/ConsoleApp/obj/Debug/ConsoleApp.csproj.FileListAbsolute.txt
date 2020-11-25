@@ -1,0 +1,12 @@
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\RestSharp.dll
+C:\Users\Drew\source\repos\CallingAPIDemo\ConsoleApp\bin\Debug\RestSharp.xml
